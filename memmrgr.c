@@ -2,8 +2,6 @@
 //  memmgr.c
 //  memmgr
 //
-//  Created by William McCarthy on 17/11/20.
-//  Copyright © 2020 William McCarthy. All rights reserved.
 //
 
 #include <stdio.h>
